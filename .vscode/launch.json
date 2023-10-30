@@ -1,0 +1,350 @@
+{
+    // 使用 IntelliSense 以得知可用的屬性。
+    // 暫留以檢視現有屬性的描述。
+    // 如需詳細資訊，請瀏覽: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "ATMSystem",
+            "request": "launch",
+            "mainClass": "ATM項目.ATMSystem",
+            "projectName": "Java_3a9f3f15"
+        },
+        {
+            "type": "java",
+            "name": "test",
+            "request": "launch",
+            "mainClass": "常用類別.ArrayList.ArrayList元素搜索.test",
+            "projectName": "Java_3a9f3f15"
+        },
+        {
+            "type": "java",
+            "name": "test",
+            "request": "launch",
+            "mainClass": "常用類別.ArrayList.ArrayList儲存自訂對象.test",
+            "projectName": "Java_3a9f3f15"
+        },
+        {
+            "type": "java",
+            "name": "學生成績",
+            "request": "launch",
+            "mainClass": "常用類別.ArrayList.學生成績",
+            "projectName": "Java_3a9f3f15"
+        },
+        {
+            "type": "java",
+            "name": "ArrayListDemo",
+            "request": "launch",
+            "mainClass": "常用類別.ArrayList.ArrayListDemo",
+            "projectName": "Java_3a9f3f15"
+        },
+        {
+            "type": "java",
+            "name": "手機號碼屏蔽",
+            "request": "launch",
+            "mainClass": "常用類別.String.手機號碼屏蔽",
+            "projectName": "Java_3a9f3f15"
+        },
+        {
+            "type": "java",
+            "name": "登入功能",
+            "request": "launch",
+            "mainClass": "常用類別.String.登入功能",
+            "projectName": "Java_3a9f3f15"
+        },
+        {
+            "type": "java",
+            "name": "String驗證碼",
+            "request": "launch",
+            "mainClass": "常用類別.String.String驗證碼",
+            "projectName": "Java_3a9f3f15"
+        },
+        {
+            "type": "java",
+            "name": "StringApi",
+            "request": "launch",
+            "mainClass": "常用類別.StringApi",
+            "projectName": "Java_3a9f3f15"
+        },
+        {
+            "type": "java",
+            "name": "StrintDemo2",
+            "request": "launch",
+            "mainClass": "常用類別.StrintDemo2",
+            "projectName": "Java_3a9f3f15"
+        },
+        {
+            "type": "java",
+            "name": "StringDemo",
+            "request": "launch",
+            "mainClass": "常用類別.StringDemo",
+            "projectName": "Java_3a9f3f15"
+        },
+        {
+            "type": "java",
+            "name": "shopCarTest",
+            "request": "launch",
+            "mainClass": "javaBean.購物車.shopCarTest",
+            "projectName": "Java_3a9f3f15"
+        },
+        {
+            "type": "java",
+            "name": "test",
+            "request": "launch",
+            "mainClass": "javaBean.test",
+            "projectName": "Java_3a9f3f15"
+        },
+        {
+            "type": "java",
+            "name": "testCar",
+            "request": "launch",
+            "mainClass": "物件導向.thisDemo.testCar",
+            "projectName": "Java_3a9f3f15"
+        },
+        {
+            "type": "java",
+            "name": "testCar",
+            "request": "launch",
+            "mainClass": "物件導向.建構子.testCar",
+            "projectName": "Java_3a9f3f15"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ArrayRandom",
+            "request": "launch",
+            "mainClass": "ArrayRandom",
+            "projectName": "Java_3a9f3f15"
+        },
+        {
+            "type": "java",
+            "name": "ArrayTest",
+            "request": "launch",
+            "mainClass": "ArrayTest",
+            "projectName": "Java_3a9f3f15"
+        },
+        {
+            "type": "java",
+            "name": "ForDemo",
+            "request": "launch",
+            "mainClass": "ForDemo",
+            "projectName": "Java_3a9f3f15"
+        },
+        {
+            "type": "java",
+            "name": "ForForDemo",
+            "request": "launch",
+            "mainClass": "ForForDemo",
+            "projectName": "Java_3a9f3f15"
+        },
+        {
+            "type": "java",
+            "name": "GuessNumber",
+            "request": "launch",
+            "mainClass": "GuessNumber",
+            "projectName": "Java_3a9f3f15"
+        },
+        {
+            "type": "java",
+            "name": "Hello",
+            "request": "launch",
+            "mainClass": "Hello",
+            "projectName": "Java_3a9f3f15"
+        },
+        {
+            "type": "java",
+            "name": "IfDemo",
+            "request": "launch",
+            "mainClass": "IfDemo",
+            "projectName": "Java_3a9f3f15"
+        },
+        {
+            "type": "java",
+            "name": "BasicMethod",
+            "request": "launch",
+            "mainClass": "Method.BasicMethod",
+            "projectName": "Java_3a9f3f15"
+        },
+        {
+            "type": "java",
+            "name": "numPsw",
+            "request": "launch",
+            "mainClass": "Method.numPsw",
+            "projectName": "Java_3a9f3f15"
+        },
+        {
+            "type": "java",
+            "name": "randomBall",
+            "request": "launch",
+            "mainClass": "Method.randomBall",
+            "projectName": "Java_3a9f3f15"
+        },
+        {
+            "type": "java",
+            "name": "test",
+            "request": "launch",
+            "mainClass": "Method.test",
+            "projectName": "Java_3a9f3f15"
+        },
+        {
+            "type": "java",
+            "name": "印出陣列",
+            "request": "launch",
+            "mainClass": "Method.印出陣列",
+            "projectName": "Java_3a9f3f15"
+        },
+        {
+            "type": "java",
+            "name": "找質數",
+            "request": "launch",
+            "mainClass": "Method.找質數",
+            "projectName": "Java_3a9f3f15"
+        },
+        {
+            "type": "java",
+            "name": "方法重載",
+            "request": "launch",
+            "mainClass": "Method.方法重載",
+            "projectName": "Java_3a9f3f15"
+        },
+        {
+            "type": "java",
+            "name": "比較陣列是否一樣",
+            "request": "launch",
+            "mainClass": "Method.比較陣列是否一樣",
+            "projectName": "Java_3a9f3f15"
+        },
+        {
+            "type": "java",
+            "name": "評審打分",
+            "request": "launch",
+            "mainClass": "Method.評審打分",
+            "projectName": "Java_3a9f3f15"
+        },
+        {
+            "type": "java",
+            "name": "陣列元素索引值返回",
+            "request": "launch",
+            "mainClass": "Method.陣列元素索引值返回",
+            "projectName": "Java_3a9f3f15"
+        },
+        {
+            "type": "java",
+            "name": "陣列排序",
+            "request": "launch",
+            "mainClass": "Method.陣列排序",
+            "projectName": "Java_3a9f3f15"
+        },
+        {
+            "type": "java",
+            "name": "陣列複製",
+            "request": "launch",
+            "mainClass": "Method.陣列複製",
+            "projectName": "Java_3a9f3f15"
+        },
+        {
+            "type": "java",
+            "name": "驗證碼",
+            "request": "launch",
+            "mainClass": "Method.驗證碼",
+            "projectName": "Java_3a9f3f15"
+        },
+        {
+            "type": "java",
+            "name": "RandomDemo",
+            "request": "launch",
+            "mainClass": "RandomDemo",
+            "projectName": "Java_3a9f3f15"
+        },
+        {
+            "type": "java",
+            "name": "ScannerDemo",
+            "request": "launch",
+            "mainClass": "ScannerDemo",
+            "projectName": "Java_3a9f3f15"
+        },
+        {
+            "type": "java",
+            "name": "SwitchDemo",
+            "request": "launch",
+            "mainClass": "SwitchDemo",
+            "projectName": "Java_3a9f3f15"
+        },
+        {
+            "type": "java",
+            "name": "WhileDemo",
+            "request": "launch",
+            "mainClass": "WhileDemo",
+            "projectName": "Java_3a9f3f15"
+        },
+        {
+            "type": "java",
+            "name": "array",
+            "request": "launch",
+            "mainClass": "array",
+            "projectName": "Java_3a9f3f15"
+        },
+        {
+            "type": "java",
+            "name": "conditionalstatement",
+            "request": "launch",
+            "mainClass": "conditionalstatement",
+            "projectName": "Java_3a9f3f15"
+        },
+        {
+            "type": "java",
+            "name": "dataconversion",
+            "request": "launch",
+            "mainClass": "dataconversion",
+            "projectName": "Java_3a9f3f15"
+        },
+        {
+            "type": "java",
+            "name": "datatype",
+            "request": "launch",
+            "mainClass": "datatype",
+            "projectName": "Java_3a9f3f15"
+        },
+        {
+            "type": "java",
+            "name": "loop",
+            "request": "launch",
+            "mainClass": "loop",
+            "projectName": "Java_3a9f3f15"
+        },
+        {
+            "type": "java",
+            "name": "loopstatement",
+            "request": "launch",
+            "mainClass": "loopstatement",
+            "projectName": "Java_3a9f3f15"
+        },
+        {
+            "type": "java",
+            "name": "test(1)",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "Java_3a9f3f15"
+        },
+        {
+            "type": "java",
+            "name": "使用Car",
+            "request": "launch",
+            "mainClass": "物件導向.使用Car",
+            "projectName": "Java_3a9f3f15"
+        },
+        {
+            "type": "java",
+            "name": "shopCarTest",
+            "request": "launch",
+            "mainClass": "物件導向.購物車.shopCarTest",
+            "projectName": "Java_3a9f3f15"
+        }
+    ]
+}
